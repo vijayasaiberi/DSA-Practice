@@ -1,4 +1,3 @@
-
 # DSA Practice
 
 ## About
@@ -26,7 +25,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice proble
 - Java
 
 ## Practice Platforms
-- Smart Interviews(Hive Platform)
+- Smart Interviews (Hive Platform)
 - LeetCode
 - CodeChef
 - Codeforces
